@@ -4,7 +4,7 @@
 <br>
 <br>
 ![Screenshot (35)](https://github.com/Rohit-2508/Sale-billing-System/assets/109918640/95f3f0f0-82c9-4ba7-bd0d-9bfa5c116769)
-![Screenshot (31)](https://github.com/Maan2607/FOOD-SHOP/assets/101566688/85fe398e-7d5b-4ee4-a506-45b2716bcd37)
+![Screenshot (34)](https://github.com/Rohit-2508/Sale-billing-System/assets/109918640/66cd2baa-d53c-4131-bf34-6550b5164553)
 ![Screenshot (36)](https://github.com/Maan2607/FOOD-SHOP/assets/101566688/67feec74-cbc1-482f-9618-8c80dece373b)
 ![Screenshot (38)](https://github.com/Maan2607/FOOD-SHOP/assets/101566688/02ebad63-5b46-4122-b245-08494a9196e5)
 ![Screenshot (35)](https://github.com/Maan2607/FOOD-SHOP/assets/101566688/0eb87ae2-e2ec-409e-944a-0944dd2e068e)
