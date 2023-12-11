@@ -76,8 +76,8 @@ const handlePrint = useReactToPrint({
       < center id= "top" >
        <div className="logo" />
         <div className="info">
-       <h2>Mantaran Singh POS</h2> 
-       <p> Contact: ******9170 | Roorkee Uttarkhand</p>
+       <h2>Rohit NayaK Shop</h2> 
+       <p> Contact: ******4050 | Sikar, Rajasthan </p>
        </div>
         {/*End Info*/}
        </center>
